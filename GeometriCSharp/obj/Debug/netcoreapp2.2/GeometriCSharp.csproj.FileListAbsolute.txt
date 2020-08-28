@@ -1,0 +1,12 @@
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/bin/Debug/netcoreapp2.2/GeometriCSharp.deps.json
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/bin/Debug/netcoreapp2.2/GeometriCSharp.runtimeconfig.json
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/bin/Debug/netcoreapp2.2/GeometriCSharp.runtimeconfig.dev.json
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/bin/Debug/netcoreapp2.2/GeometriCSharp.dll
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/bin/Debug/netcoreapp2.2/GeometriCSharp.pdb
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/obj/Debug/netcoreapp2.2/GeometriCSharp.csprojAssemblyReference.cache
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/obj/Debug/netcoreapp2.2/GeometriCSharp.AssemblyInfoInputs.cache
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/obj/Debug/netcoreapp2.2/GeometriCSharp.AssemblyInfo.cs
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/obj/Debug/netcoreapp2.2/GeometriCSharp.csproj.CoreCompileInputs.cache
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/obj/Debug/netcoreapp2.2/GeometriCSharp.dll
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/obj/Debug/netcoreapp2.2/GeometriCSharp.pdb
+/Users/caku/Desktop/Skole/Programmering/GeometriCSharp/GeometriCSharp/obj/Debug/netcoreapp2.2/GeometriCSharp.genruntimeconfig.cache
